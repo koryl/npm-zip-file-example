@@ -1,0 +1,12 @@
+{
+    "name": "a4b-script-consumer-test",
+    "description": "Script handler",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "/home/adrian/.nvm/versions/node/v8.17.0/bin/node index.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "node-zip": "^1.1.1"
+    }
+}
