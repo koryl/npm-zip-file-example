@@ -34,3 +34,5 @@ build/
 
 *.zip
 *.file
+
+node_modules
