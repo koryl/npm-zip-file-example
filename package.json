@@ -3,7 +3,7 @@
     "description": "Script handler",
     "version": "0.0.1",
     "scripts": {
-        "start": "/home/adrian/.nvm/versions/node/v8.17.0/bin/node index.js"
+        "start": "node index.js"
     },
     "dependencies": {},
     "devDependencies": {
